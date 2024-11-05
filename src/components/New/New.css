@@ -1,0 +1,25 @@
+.music-grid-container{
+    top: 800px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1vw;
+}
+
+.music-grid {
+    margin-top: 20vh;
+    position: inherit;
+    z-index: 1;
+}
+
+.NewTextContainer{
+    position: absolute;
+    top: -5vh;
+    left: 1vw;
+    font-size: 5vh;
+    color: #fff;
+
+}
+
+.newtext{
+    margin-top: 100px;
+}

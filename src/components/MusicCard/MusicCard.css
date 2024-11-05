@@ -1,0 +1,184 @@
+.music-card {
+    position: relative;
+    width: 10vw;
+    height: 10vw;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+
+    overflow: hidden;
+    margin: 1vh;
+    background-color: #f1f1f1;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    transition: transform 0.1s ease-in-out;
+    z-index: 1;
+}
+
+.music-card-image {
+    position: relative;
+    width: 100%;
+    height: 80%;
+    object-fit: fill;
+    z-index: 1;
+}
+
+.music-card-info {
+    width: 100%;
+    height: 50%;
+}
+
+.music-card-title {
+    margin: 0;
+    font-size: 1vw;
+    line-height: 1vw;
+    object-fit: fill;
+    font-family: Arial, sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+
+.music-card--large{
+    transform: scale(1.4);
+    transition: transform 0.1s ease-in-out;
+    overflow: visible;
+    z-index: 10;
+
+    .music-card-info {
+        width: 100%;
+        height: 50%;
+        margin-bottom: 1vw;
+    }
+
+    .music-card-image {
+        width: 100%;
+        height: 50%;
+        object-fit: cover;
+        overflow: hidden;
+    }
+
+    .music-card-title {
+        height: 1vw;
+        margin-bottom: 1vw;
+        font-size: 0.8vw;
+        line-height: 1vw;
+        font-family: Arial, sans-serif;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 100%;
+    }
+    .music-Author-name{
+        height: 1.5vw;
+        margin-top: -1.5vw;
+        font-size: 0.8vw;
+        line-height: 2vw;
+        font-family: Arial, sans-serif;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+        height: 35%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .play-button {
+        margin-left: 0vw;
+        background: none;
+        border: none;
+        margin-top: 0;
+        cursor: pointer;
+    }
+
+    .more-button{
+        margin-top: 0;
+        background: none;
+        border: none;
+        cursor: pointer;
+
+    }
+
+    .music-duration{
+        width: 10%;
+        height: 5%;
+        margin-right: auto;
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    }
+
+    .dropdown-menu {
+        background-color: #fff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        width: auto;
+        min-width: 150px;
+        padding: 5px 0;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 29;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        transition: transform 0.1s ease-in-out;
+    }
+
+    .drop-button {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        color: #333;
+        background: none;
+        border: none;
+        padding: 8px 16px;
+        text-align: left;
+        width: 100%;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .drop-button:hover {
+        background-color: #f8f8f8;
+    }
+}
+
+.playlist-popup {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: absolute;
+    width: 10vw;
+    top: 108%;
+    left: 105%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    z-index: 100;
+}
+
+.playlist-item {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.playlist-item:hover {
+    background-color: #f0f0f0;
+}
+
+.play-music-container {
+    position: fixed;
+    left: 50%;
+    bottom: 1vh;
+    transform: translateX(-50%);
+    width: auto;
+    z-index: 30;
+}

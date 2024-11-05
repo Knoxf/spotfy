@@ -1,0 +1,402 @@
+{
+  "1": {
+    "musicName": "Anti-Hero",
+    "musicAuthor": "Taylor Swift",
+    "musicSrc": "Anti-Hero-Taylor Swift.mp3",
+    "cover": "Anti-Hero-Taylor Swift.jpg",
+    "id": 1,
+    "Category": "Rock"
+  },
+  "2": {
+    "musicName": "Bright Future",
+    "musicAuthor": "Peder B. Helland",
+    "musicSrc": "Bright Future-Peder B. Helland.mp3",
+    "cover": "Bright Future-Peder B. Helland.jpg",
+    "id": 2,
+    "Category": "Jazz"
+  },
+  "3": {
+    "musicName": "Cant Complain",
+    "musicAuthor": "Relient K",
+    "musicSrc": "Cant Complain-Relient K.mp3",
+    "cover": "Can't Complain-Relient K.jpg",
+    "id": 3,
+    "Category": "Rock"
+  },
+  "4": {
+    "musicName": "Cruel Summer",
+    "musicAuthor": "Taylor Swift",
+    "musicSrc": "Cruel Summer-Taylor Swift.mp3",
+    "cover": "Cruel Summer-Taylor Swift.jpg",
+    "id": 4,
+    "Category": "Pop"
+  },
+  "5": {
+    "musicName": "Curtains",
+    "musicAuthor": "Ed Sheeran",
+    "musicSrc": "Curtains-Ed Sheeran.mp3",
+    "cover": "Curtains-Ed Sheeran.jpg",
+    "id": 5,
+    "Category": "Rock"
+  },
+  "6": {
+    "musicName": "Empty Cups",
+    "musicAuthor": "Charlie Puth",
+    "musicSrc": "Empty Cups-Charlie Puth.mp3",
+    "cover": "Empty Cups-Charlie Puth.jpg",
+    "id": 6,
+    "Category": "Pop"
+  },
+  "7": {
+    "musicName": "Epilogue",
+    "musicAuthor": "Justin Hurwitz",
+    "musicSrc": "Epilogue-Justin Hurwitz.mp3",
+    "cover": "Epilogue-Justin Hurwitz.jpg",
+    "id": 7,
+    "Category": "Pop"
+  },
+  "8": {
+    "musicName": "Eramaan viimeinen",
+    "musicAuthor": "Nightwish",
+    "musicSrc": "Eramaan viimeinen-Nightwish.mp3",
+    "cover": "Eramaan viimeinen-Nightwish.jpg",
+    "id": 8,
+    "Category": "Metal"
+  },
+  "9": {
+    "musicName": "Fantasy",
+    "musicAuthor": "Mariah Carey",
+    "musicSrc": "Fantasy-Mariah Carey.mp3",
+    "cover": "Fantasy-Mariah Carey.jpg",
+    "id": 9,
+    "Category": "Pop"
+  },
+  "10": {
+    "musicName": "Forever",
+    "musicAuthor": "Ahxello",
+    "musicSrc": "Forever-Ahxello.mp3",
+    "cover": "Forever-Ahxello.jpg",
+    "id": 10,
+    "Category": "Pop"
+  },
+  "11": {
+    "musicName": "Give Me an Answer",
+    "musicAuthor": "Low Roar",
+    "musicSrc": "Give Me an Answer-Low Roar.mp3",
+    "cover": "Give Me an Answer-Low Roar.jpg",
+    "id": 11,
+    "Category": "Pop"
+  },
+  "12": {
+    "musicName": "Green Book",
+    "musicAuthor": "Ghostly Kisses",
+    "musicSrc": "Green Book-Ghostly Kisses.mp3",
+    "cover": "Green Book-Ghostly Kisses.jpg",
+    "id": 12,
+    "Category": "Pop"
+  },
+  "13": {
+    "musicName": "How Soon",
+    "musicAuthor": "ASTN",
+    "musicSrc": "How Soon-ASTN.mp3",
+    "cover": "How Soon-ASTN.jpg",
+    "id": 13,
+    "Category": "Rock"
+  },
+  "14": {
+    "musicName": "I Knew You Were Trouble.",
+    "musicAuthor": "Taylor Swift",
+    "musicSrc": "I Knew You Were Trouble.-Taylor Swift.mp3",
+    "cover": "I Knew You Were Trouble.-Taylor Swift.jpg",
+    "id": 14,
+    "Category": "Pop"
+  },
+  "15": {
+    "musicName": "I Lived",
+    "musicAuthor": "OneRepublic",
+    "musicSrc": "I Lived-OneRepublic.mp3",
+    "cover": "I Lived-OneRepublic.jpg",
+    "id": 15,
+    "Category": "Pop"
+  },
+  "16": {
+    "musicName": "I Really Want to Stay At Your House",
+    "musicAuthor": "Rosa Walton,Hallie Coggins",
+    "musicSrc": "I Really Want to Stay At Your House-Rosa Walton,Hallie Coggins.mp3",
+    "cover": "I Really Want to Stay At Your House-Rosa Walton,Hallie Coggins.jpg",
+    "id": 16,
+    "Category": "pop"
+  },
+  "17": {
+    "musicName": "I Will Remember",
+    "musicAuthor": "Peder B. Helland",
+    "musicSrc": "I Will Remember-Peder B. Helland.mp3",
+    "cover": "I Will Remember-Peder B. Helland.jpg",
+    "id": 17,
+    "Category": "R&B"
+  },
+  "18": {
+    "musicName": "Knee Socks",
+    "musicAuthor": "Arctic Monkeys",
+    "musicSrc": "Knee Socks-Arctic Monkeys.mp3",
+    "cover": "Knee Socks-Arctic Monkeys.jpg",
+    "id": 18,
+    "Category": "pop"
+  },
+  "19": {
+    "musicName": "Limitless (feat. Sophie Rose)",
+    "musicAuthor": "SAM F,Sophie Rose",
+    "musicSrc": "Limitless (feat. Sophie Rose)-SAM F,Sophie Rose.mp3",
+    "cover": "Limitless (feat. Sophie Rose)-SAM F,Sophie Rose.jpg",
+    "id": 19,
+    "Category": "Rock"
+  },
+  "20": {
+    "musicName": "Love Song",
+    "musicAuthor": "Why Dont We",
+    "musicSrc": "Love Song-Why Dont We.mp3",
+    "cover": "Love Song-Why Don't We.jpg",
+    "id":20,
+    "Category": "Comedy"
+  },
+  "21": {
+    "musicName": "Love me better",
+    "musicAuthor": "James Blunt",
+    "musicSrc": "Love me better-KokonAngel,Die-OverXYC.mp3",
+    "cover": "Love me better-KokonAngel,Die-OverXYC.jpg",
+    "id": 21,
+    "Category": "Metal"
+  },
+  "22": {
+    "musicName": "Might Not",
+    "musicAuthor": "Belly,The Weeknd",
+    "musicSrc": "Might Not-Belly,The Weeknd.mp3",
+    "cover": "Might Not-Belly,The Weeknd.jpg",
+    "id": 22,
+    "Category": "Classical"
+  },
+  "23": {
+    "musicName": "Older",
+    "musicAuthor": "Sasha Alex Sloan",
+    "musicSrc": "Older-Sasha Alex Sloan.mp3",
+    "cover": "Older-Sasha Alex Sloan.jpg",
+    "id": 23,
+    "Category": "Afro"
+  },
+  "24": {
+    "musicName": "PAPAPA",
+    "musicAuthor": "HuangMing Zhi",
+    "musicSrc": "PAPAPA-GRABOTE.mp3",
+    "cover": "PAPAPA-GRABOTE.jpg",
+    "id": 24,
+    "Category": "Pop"
+  },
+  "25": {
+    "musicName": "Rage Your Dream",
+    "musicAuthor": "m.o.v.e",
+    "musicSrc": "Rage Your Dream-m.o.v.e.mp3",
+    "cover": "Rage Your Dream-m.o.v.e.jpg",
+    "id": 25,
+    "Category": "Hip Hop"
+  },
+  "26": {
+    "musicName": "Road to You",
+    "musicAuthor": "Ryan Farish",
+    "musicSrc": "Road to You-Ryan Farish.mp3",
+    "cover": "Road to You-Ryan Farish.jpg",
+    "id": 26,
+    "Category": "Travel"
+  },
+  "27": {
+    "musicName": "Running Up That Hill",
+    "musicAuthor": "Meg Myers",
+    "musicSrc": "Running Up That Hill-Meg Myers.mp3",
+    "cover": "Running Up That Hill-Meg Myers.jpg",
+    "id": 27,
+    "Category": "Pop"
+  },
+  "28": {
+    "musicName": "Seasons",
+    "musicAuthor": "Chloe Adams",
+    "musicSrc": "Seasons-Chloe Adams.mp3",
+    "cover": "Seasons-Chloe Adams.jpg",
+    "id": 28,
+    "Category": "Rock"
+  },
+  "29": {
+    "musicName": "Secret Garden",
+    "musicAuthor": "Krisu",
+    "musicSrc": "Secret Garden-Krisu.mp3",
+    "cover": "Secret Garden-Krisu.jpg",
+    "id": 29,
+    "Category": "Pop"
+  },
+  "30": {
+    "musicName": "See You Again (From Furious 7)",
+    "musicAuthor": "Wiz Khalifa,Charlie Puth",
+    "musicSrc": "See You Again (From Furious 7)-Wiz Khalifa,Charlie Puth.mp3",
+    "cover": "See You Again (From Furious 7)-Wiz Khalifa,Charlie Puth.jpg",
+    "id": 30,
+    "Category": "Metal"
+  },
+  "31": {
+    "musicName": "Side To Side",
+    "musicAuthor": "Ariana Grande,Nicki Minaj",
+    "musicSrc": "Side To Side-Ariana Grande,Nicki Minaj.mp3",
+    "cover": "Side To Side-Ariana Grande,Nicki Minaj.jpg",
+    "id": 31,
+    "Category": "Pop"
+  },
+  "32": {
+    "musicName": "Someone Else",
+    "musicAuthor": "REZZ,Grabbitz",
+    "musicSrc": "Someone Else-REZZ,Grabbitz.mp3",
+    "cover": "Someone Else-REZZ,Grabbitz.jpg",
+    "id": 32,
+    "Category": "Pop"
+  },
+  "33": {
+    "musicName": "Someone to Stay",
+    "musicAuthor": "Vancouver Sleep Clinic",
+    "musicSrc": "Someone to Stay-Vancouver Sleep Clinic.mp3",
+    "cover": "Someone to Stay-Vancouver Sleep Clinic.jpg",
+    "id": 33,
+    "Category": "Hip Hop"
+  },
+  "34": {
+    "musicName": "Stand By Your Man",
+    "musicAuthor": "Carla Bruni",
+    "musicSrc": "Stand By Your Man-Carla Bruni.mp3",
+    "cover": "Stand By Your Man-Carla Bruni.jpg",
+    "id": 34,
+    "Category": "Pop"
+  },
+  "35": {
+    "musicName": "Strangers",
+    "musicAuthor": "Sigrid",
+    "musicSrc": "Strangers-Sigrid.mp3",
+    "cover": "Strangers-Sigrid.jpg",
+    "id": 35,
+    "Category": "Pop"
+  },
+  "36": {
+    "musicName": "Summertime",
+    "musicAuthor": "Kenny G,George Benson",
+    "musicSrc": "Summertime-Kenny G,George Benson.mp3",
+    "cover": "Summertime-Kenny G,George Benson.jpg",
+    "id": 36,
+    "Category": "Metal"
+  },
+  "37": {
+    "musicName": "Team",
+    "musicAuthor": "Lorde",
+    "musicSrc": "Team-Lorde.mp3",
+    "cover": "Team-Lorde.jpg",
+    "id": 37,
+    "Category": "Classical"
+  },
+  "38": {
+    "musicName": "Thank You",
+    "musicAuthor": "JUNNY",
+    "musicSrc": "Thank You-JUNNY.mp3",
+    "cover": "Thank You-JUNNY.jpg",
+    "id": 38,
+    "Category": "Classical"
+  },
+  "39": {
+    "musicName": "That's Us",
+    "musicAuthor": "Anson Seabra",
+    "musicSrc": "That’s Us-Anson Seabra.mp3",
+    "cover": "That’s Us-Anson Seabra.jpg",
+    "id": 39,
+    "Category": "Focus"
+  },
+  "40": {
+    "musicName": "The Middle",
+    "musicAuthor": "Zedd,Maren Morris,Grey",
+    "musicSrc": "The Middle-Zedd,Maren Morris,Grey.mp3",
+    "cover": "The Middle-Zedd,Maren Morris,Grey.jpg",
+    "id": 40,
+    "Category": "Love"
+  },
+  "41": {
+    "musicName": "Ticket to Ride",
+    "musicAuthor": "The Beatles",
+    "musicSrc": "Ticket to Ride-The Beatles.mp3",
+    "cover": "Ticket to Ride-The Beatles.jpg",
+    "id": 41,
+    "Category": "rack"
+  },
+  "42": {
+    "musicName": "Tightrope",
+    "musicAuthor": "ZAYN",
+    "musicSrc": "Tightrope-ZAYN.mp3",
+    "cover": "Tightrope-ZAYN.jpg",
+    "id": 42,
+    "Category": "rack"
+  },
+  "43": {
+    "musicName": "Untouchable",
+    "musicAuthor": "Taylor Swift",
+    "musicSrc": "Untouchable-Taylor Swift.mp3",
+    "cover": "Untouchable-Taylor Swift.jpg",
+    "id": 43,
+    "Category": "Love"
+  },
+  "44": {
+    "musicName": "Wait",
+    "musicAuthor": "Martin Jensen,Loote",
+    "musicSrc": "Wait-Martin Jensen,Loote.mp3",
+    "cover": "Wait-Martin Jensen,Loote.jpg",
+    "id": 44,
+    "Category": "Pop"
+  },
+  "45": {
+    "musicName": "Warriors to the End",
+    "musicAuthor": "Seth Sentry",
+    "musicSrc": "Warriors to the End-Epic Score.mp3",
+    "cover": "Warriors to the End-Epic Score.jpg",
+    "id": 45,
+    "Category": "Pop"
+  },
+  "46": {
+    "musicName": "Welcome To New York",
+    "musicAuthor": "Taylor Swift",
+    "musicSrc": "Welcome To New York-Taylor Swift.mp3",
+    "cover": "Welcome To New York-Taylor Swift.jpg",
+    "id": 46,
+    "Category": "Hip Hop"
+  },
+  "47": {
+    "musicName": "You Lied to Me",
+    "musicAuthor": "Jurrivh",
+    "musicSrc": "You Lied to Me-Jurrivh.mp3",
+    "cover": "You Lied to Me-Jurrivh.jpg",
+    "id": 47,
+    "Category": "Radar"
+  },
+  "48": {
+    "musicName": "Young And Menace",
+    "musicAuthor": "Fall Out Boy",
+    "musicSrc": "Young And Menace-Fall Out Boy.mp3",
+    "cover": "Young And Menace-Fall Out Boy.jpg",
+    "id": 48,
+    "Category": "Pop"
+  },
+  "49": {
+    "musicName": "everything i wanted",
+    "musicAuthor": "Billie Eilish",
+    "musicSrc": "everything i wanted-Billie Eilish.mp3",
+    "cover": "everything i wanted-Billie Eilish.jpg",
+    "id": 49,
+    "Category": "Radar"
+  },
+  "50": {
+    "musicName": "more",
+    "musicAuthor": "keshi",
+    "musicSrc": "more-keshi.mp3",
+    "cover": "more-keshi.jpg",
+    "id": 50,
+    "Category": "Pop"
+  }
+}

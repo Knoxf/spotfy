@@ -1,0 +1,37 @@
+.Category-grid{
+    margin-top: 20vh;
+    position: inherit;
+    z-index: 1;
+}
+
+.Category-text-container{
+    position: absolute;
+    top: -5vh;
+    left: 1vw;
+    font-size: 5vh;
+    color: #000000;
+}
+
+
+.category-grib-container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1vw;
+}
+
+.category-text{
+    font-size: var(--font-size-xl);
+    font-family: Arial, sans-serif;
+    color: var(--color-black);
+    text-align: left;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.back-button{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.backlogo{
+    font-size: 4vw;
+}

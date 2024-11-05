@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Mplus+1p+Bold:wght@700&display=swap");
+body {
+    margin: 0;
+    line-height: normal;
+}
+:root {
+    /* fonts */
+    --font-mplus-1p-bold: "Mplus 1p Bold";
+
+    /* font sizes */
+    --font-size-xl: 20px;
+
+    /* Colors */
+    --color-black: #000;
+
+    /* Gaps */
+    --gap-31xl: 50px;
+    --gap-8xs: 5px;
+    --gap-3xs: 10px;
+
+    /* Paddings */
+    --padding-125xl: 144px;
+    --padding-3xs: 10px;
+    --padding-8xs: 5px;
+
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-41xl: 60px;
+}

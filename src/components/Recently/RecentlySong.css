@@ -1,0 +1,39 @@
+.recently-song-container{
+    position: absolute;
+    right: 42%;
+    top: 2%;
+    width: 5vw;
+    height: 2vh;
+}
+
+.recently-song-txt{
+    font-size: 1vw;
+    font-family: Arial, sans-serif;
+    color: var(--color-black);
+    text-align: left;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.carousel-items{
+    display: flex;
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    height: 15vh;
+}
+
+.carousel img {
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.changeSongIconContainer{
+    position: absolute;
+    top: 7%;
+    right: 0;
+    width: 60vw;
+    height: 15vh;
+}
